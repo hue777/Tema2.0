@@ -51,7 +51,7 @@
 
 #user-rollover.id-4473623 .badge-box i.bdg,
 #chat-messages .id-4473623 .badge-box i.bdg {
-    background-image: url("https://edmspot.tk/public/images/badges/otter.gif");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/deniPic.jpg");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -62,7 +62,7 @@
 }
 
 .cm.id-4473623::before {
-    background-image: url("https://i.pinimg.com/originals/d7/ba/7c/d7ba7c42a382b3af3cdceba1ca174e91.jpg");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/deniBG.jpg");
     background-repeat: no-repeat;
     content: "";
     position: absolute;
@@ -84,7 +84,7 @@
 
 #user-rollover.id-37634917 .badge-box i.bdg,
 #chat-messages .id-37634917 .badge-box i.bdg {
-    background-image: url("https://edmspot.tk/public/images/badges/otter.gif");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/duduPic.jpg");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -95,7 +95,7 @@
 }
 
 .cm.id-37634917::before {
-    background-image: url("https://raw.githubusercontent.com/EDM-Spot/edm-spot.github.io/master/banners/otter.jpg");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/duduBG.jpg");
     background-repeat: no-repeat;
     content: "";
     position: absolute;
@@ -150,7 +150,7 @@
 
 #user-rollover.id-5291107 .badge-box i.bdg,
 #chat-messages .id-5291107 .badge-box i.bdg {
-    background-image: url("https://edmspot.tk/public/images/badges/otter.gif");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/helopsPic.gif");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -161,7 +161,7 @@
 }
 
 .cm.id-5291107::before {
-    background-image: url("https://raw.githubusercontent.com/EDM-Spot/edm-spot.github.io/master/banners/otter.jpg");
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/helopsBG.jpg");
     background-repeat: no-repeat;
     content: "";
     position: absolute;
