@@ -10,14 +10,14 @@
 }
 
 /* OtterBot */
-#chat-messages .id-40333310 .badge-box:hover {
+#chat-messages .id-33107375 .badge-box:hover {
     width: 65px;
     height: 65px;
     transition: 0.4s;
 }
 
-#user-rollover.id-40333310 .badge-box i.bdg,
-#chat-messages .id-40333310 .badge-box i.bdg {
+#user-rollover.id-33107375 .badge-box i.bdg,
+#chat-messages .id-33107375 .badge-box i.bdg {
     background-image: url("https://edmspot.tk/public/images/badges/otter.gif");
     background-size: cover;
     width: 100%;
@@ -28,7 +28,7 @@
     left: 0px;
 }
 
-.cm.id-40333310::before {
+.cm.id-33107375::before {
     background-image: url("https://raw.githubusercontent.com/EDM-Spot/edm-spot.github.io/master/banners/otter.jpg");
     background-repeat: no-repeat;
     content: "";
