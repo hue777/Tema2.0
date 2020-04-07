@@ -1,0 +1,42 @@
+/* Custom Badges */
+
+/* General */
+#chat .badge-box i,
+.right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;
+}
+#chat-messages .badge-box {
+    background: none !important;
+}
+
+/* OtterBot */
+#chat-messages .id-40333310 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-40333310 .badge-box i.bdg,
+#chat-messages .id-40333310 .badge-box i.bdg {
+    background-image: url("https://edmspot.tk/public/images/badges/otter.gif");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-40333310::before {
+    background-image: url("https://raw.githubusercontent.com/EDM-Spot/edm-spot.github.io/master/banners/otter.jpg");
+    background-repeat: no-repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+}

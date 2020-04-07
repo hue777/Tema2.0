@@ -1,0 +1,43 @@
+{
+        "author": "Laquett",
+        "colors": {
+        "background": "",
+        "chat": {
+            "admin": "#42A5DC",
+            "ambassador": "#89BE6C",
+            "host": "#f2cd3c",
+            "cohost": "#ffbd01",
+            "manager": "#CC3333",
+            "bouncer": "#9B40E7",
+            "residentdj": "#33CCFF"
+        },
+            "footer": "",
+            "header": ""
+        },
+        "css": {
+            "font": [],
+            "import": ["https://edm-spot.github.io/main.css"],
+            "rule": {}
+        },
+        "images": {
+            "background": "https://edm-spot.github.io/background/Clouds.jpg",
+            "booth": "",
+            "icons": {
+                "admin": "",
+                "ambassador": "",
+                "host": "https://edm-spot.github.io/icons/host.png",
+                "cohost": "https://edm-spot.github.io/icons/co-host.png",
+                "manager": "https://edm-spot.github.io/icons/manager.png",
+                "bouncer": "https://edm-spot.github.io/icons/bouncer.png",
+                "residentdj": "https://edm-spot.github.io/icons/rdj.png"
+            },
+            "playback": "https://edm-spot.github.io/background/VideoGlow.png"
+        },
+        "rules": {
+            "allowAutojoin": "true",
+            "allowAutorespond": "false",
+            "allowAutowoot": "true",
+            "allowEmotes": "true",
+            "allowShowingMehs": "false"
+        }
+}

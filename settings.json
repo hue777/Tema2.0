@@ -1,0 +1,50 @@
+{
+	"room": "EDM Spot",
+	"author": "Laquett",
+	"icon": "https://edm-spot.github.io/icons/room.png",
+	"css": "https://edm-spot.github.io/main.css",
+	"rules": {
+		"allowAutorespond": false,
+		"allowAutowoot": true,
+		"allowAutojoin": true,
+		"allowAutograb": true,
+		"allowSmartVote": true,
+		"allowEmotes": true,
+		"allowShowingMehs": false,
+		"forceSmartVote": false
+	},
+	"ccc": {
+		"admin": "#42A5DC",
+		"ambassador": "#89BE6C",
+		"host": "#f2cd3c",
+		"cohost": "#ffbd01",
+		"manager": "#CC3333",
+		"bouncer": "#9B40E7",
+		"rdj": "#33CCFF",
+		"subscriber": "#918676",
+		"friend": null,
+		"user": null
+	},
+	"images": {
+		"background": "https://edm-spot.github.io/background/Clouds.jpg",
+		"playback": "https://edm-spot.github.io/background/VideoGlow.png",
+		"admin": null,
+		"ambassador": null,
+		"host": "https://edm-spot.github.io/icons/host.png",
+		"cohost": "https://edm-spot.github.io/icons/co-host.png",
+		"manager": "https://edm-spot.github.io/icons/manager.png",
+		"bouncer": "https://edm-spot.github.io/icons/bouncer.png",
+		"rdj": "https://edm-spot.github.io/icons/rdj.png",
+		"subscriber": null,
+		"other": null
+	},
+	"emotes": {
+		"freshprincedance": "https://edm-spot.github.io/emotes/freshprincedance.gif",
+		"rooHey": "https://edm-spot.github.io/emotes/rooHey.png",
+		"roohi": "https://edm-spot.github.io/emotes/roohi.gif",
+		"otterneed": "https://edm-spot.github.io/emotes/Need28.png",
+		"ottercookie": "https://edm-spot.github.io/emotes/Cookie28.png",
+		"otteromg": "https://edm-spot.github.io/emotes/OMG28.png",
+		"otterhey": "https://edm-spot.github.io/emotes/OtterHey.png"
+	}
+}
